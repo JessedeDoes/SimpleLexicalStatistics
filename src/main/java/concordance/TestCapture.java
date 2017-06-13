@@ -58,7 +58,7 @@ public class TestCapture
 
 			int i=0;
 
-			List<String> neededProps =  multi.needsContext();
+			java.util.List<String> neededProps =  multi.needsContext();
 
 			System.err.println("Needed properties:"  + neededProps);
 
