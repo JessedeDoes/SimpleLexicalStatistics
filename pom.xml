@@ -27,11 +27,14 @@
   </properties>
   
   <dependencies>
-  	<dependency>
-  		<groupId>nl.inl.blacklab</groupId>
-  		<artifactId>blacklab</artifactId>
-  		<version>1.5.0</version>
-  	</dependency>
+
+<!-- https://mvnrepository.com/artifact/nl.inl.blacklab/blacklab -->
+<dependency>
+    <groupId>nl.inl.blacklab</groupId>
+    <artifactId>blacklab</artifactId>
+    <version>1.5.0</version>
+</dependency>
+
   	<dependency>
     <groupId>commons-fileupload</groupId>
     <artifactId>commons-fileupload</artifactId>
